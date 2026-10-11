@@ -1,3 +1,4 @@
-# Versão de revisão. Liberar apenas após aprovação.
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://rinosono.vercel.app/sitemap.xml
